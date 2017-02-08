@@ -1,0 +1,100 @@
+Mandarin	14.10
+Spanish	5.85
+English	5.52
+Hindi	4.46
+Arabic	4.23
+Portuguese	3.08
+Bengali	3.05
+Russian	2.42
+Japanese	1.92
+Punjabi	1.44
+German	1.39
+Javanese	1.25
+Wu (inc. Shanghainese)	1.20
+Malaysian/Indonesian	1.16
+Telugu	1.15
+Vietnamese	1.14
+Korean	1.14
+French	1.12
+Marathi	1.10
+Tamil	1.06
+Urdu	0.99
+Turkish	0.95
+Italian	0.90
+Yue (Cantonese)	0.89
+Thai	0.85
+Gujarati	0.74
+Jin	0.72
+Southern Min	0.71
+Persian	0.68
+Polish	0.61
+Pashto	0.58
+Kannada	0.58
+Xiang (Hunnanese)	0.58
+Malayalam	0.57
+Sundanese	0.57
+Hausa	0.52
+Odia (Oriya)	0.50
+Burmese	0.50
+Hakka	0.46
+Ukrainian	0.46
+Bhojpuri	0.43
+Tagalog	0.42
+Yoruba	0.42
+Maithili	0.41
+Uzbek	0.39
+Sindhi	0.39
+Amharic	0.37
+Fula	0.37
+Romanian	0.37
+Oromo	0.36
+Igbo	0.36
+Azerbaijani	0.34
+Awadhi	0.33
+Gan Chinese	0.33
+Cebuano (Visayan)	0.32
+Dutch	0.32
+Kurdish	0.31
+Serbo-Croatian	0.28
+Malagasy	0.28
+Saraiki	0.26
+Nepali	0.25
+Sinhalese	0.25
+Chittagonian	0.24
+Zhuang	0.24
+Khmer	0.24
+Turkmen	0.24
+Assamese	0.23
+Madurese	0.23
+Somali	0.22
+Marwari	0.21
+Magahi	0.21
+Haryanvi	0.21
+Hungarian	0.19
+Chhattisgarhi	0.19
+Greek	0.18
+Chewa	0.17
+Deccan	0.17
+Akan	0.17
+Kazakh	0.17
+Northern Min	0.16
+Sylheti	0.16
+Zulu	0.16
+Czech	0.15
+Kinyarwanda	0.15
+Dhundhari	0.15
+Haitian Creole	0.15
+Eastern Min	0.14
+Ilocano	0.14
+Quechua	0.13
+Kirundi	0.13
+Swedish	0.13
+Hmong	0.13
+Shona	0.13
+Uyghur	0.12
+Hiligaynon (Visayan)	0.12
+Mossi	0.11
+Xhosa	0.11
+Belarusian	0.11
+Balochi	0.11
+Konkani	0.11

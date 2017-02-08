@@ -1,0 +1,18 @@
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\bin\Debug\LanguageAnalyzer.exe
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\bin\Debug\LanguageAnalyzer.pdb
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.Form1.resources
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.Properties.Resources.resources
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.exe
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.pdb
+C:\Users\Danial\Desktop\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.exe
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.pdb
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\bin\Debug\LanguageAnalyzer.exe
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\bin\Debug\LanguageAnalyzer.pdb
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.Form1.resources
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.Properties.Resources.resources
+C:\Users\Danial\Dropbox\AP\AP-Article\Article\InfoVis\Code\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Danial\Desktop\Code Fig5,6,7\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.exe
+C:\Users\Danial\Desktop\Code Fig5,6,7\LanguageAnalyzer\LanguageAnalyzer\obj\x86\Debug\LanguageAnalyzer.pdb
