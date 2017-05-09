@@ -13,10 +13,11 @@ namespace LanguageAnalyzer
 {
     public partial class Form1 : Form
     {
-        bool Fig5 = true;
-        bool Fig6 = false;
+        bool Fig5 = false;    //(Balance Analysis)
+        bool Fig6 = false;    //(NC     Analysis) otherwise (NC/Pop Analysis)
         double R = 0;
-        const double rad = 355;
+        private double rad = 355;
+
         int[] prime_numbers = new int[] {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127};
         List<int> used_numbers = new List<int>();
         Dictionary<string, Color> FamilyColors = new Dictionary<string, Color>();
@@ -30,6 +31,13 @@ namespace LanguageAnalyzer
         Dictionary<PointF, double> Occupied_Spaces = new Dictionary<PointF, double>();
         public Form1()
         {
+            if (Fig5 == true)
+                rad = 355;
+            if (Fig6 == true)
+                rad = 200;
+            if (Fig6 == false && Fig5 == false)
+                rad = 200;
+
             InitializeComponent();
             for (int i = prime_numbers.Length - 1; i >= 0; i--)
             {
@@ -329,7 +337,7 @@ namespace LanguageAnalyzer
                         writer.WriteElementString("Src_Type", "Filled Ellipse");
                         writer.WriteElementString("Dst_Type", "Filled Ellipse");
                         if (item.Value > 100)
-                            writer.WriteElementString("LineWidth", (0.000001 * (item.Value)).ToString());
+                            writer.WriteElementString("LineWidth", (0.02 * Math.Log10(100) + 0.000001 * (item.Value)).ToString());
                         else
                             writer.WriteElementString("LineWidth", (0.02 * Math.Log10(item.Value)).ToString());
                         writer.WriteElementString("ShowArrow", "True");
